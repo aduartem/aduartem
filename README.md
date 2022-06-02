@@ -1,1 +1,1 @@
-Hola, soy Andrés Duarte, tengo más de 9 años de experiencia como ingeniero de software. Actualmente me desempeño como Full-stack Developer en Falabella Financiero (Payments/Fpay). Mi principal stack es JavaScript, Node.js, Express.js, Angular, MySQL/MongoDB.
+Soy Andrés Duarte, tengo más de 10 años de experiencia como ingeniero de software. Actualmente me desempeño como Sr. Full-stack Developer. Mi principal stack es JavaScript, Node.js, Express.js, Angular, MySQL/MongoDB.
