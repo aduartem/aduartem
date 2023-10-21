@@ -1,1 +1,5 @@
-Soy Andrés Duarte, tengo más de 10 años de experiencia como ingeniero de software. Actualmente me desempeño como Sr. Full-stack Developer. Mi principal stack es JavaScript, Node.js, Express.js, Angular, MySQL/MongoDB.
+Hola, soy Andrés Duarte, desarrollador full-stack senior con experiencia colaborando en grandes empresas multinacionales. Apasionado desarrollador full-stack con más de una década de experiencia creando soluciones innovadoras para diversas industrias. Las principales tecnologías donde tengo más experiencia son JavaScript, Node.js, Express.js, NestJS, React, Angular, MongoDB y MySQL. Actualmente soy parte del equipo de productos digitales de Cencosud y participé en productos destacados como Cencodesk.
+
+El 2013 finalicé mis estudios, me titulé de Ingeniero en Computación e Informática y comencé oficialmente esta aventura llena de desafíos como es el mundo TI. Soy un profesional metódico, riguroso, auto-organizado y proactivo.
+
+Tambien tengo experiencia laboral en Python, Java (Spring Boot), PHP (Laravel, Codeigniter), Perl, MySQL, PostgreSQL, Oracle Database, SQL Server, SQLite, Git, Linux, Bash, Docker, Kubernetes (Kubectl), entre otras tecnologías. Además tengo experiencia trabajando con metodologías ágiles como Scrum y Scrumban.
